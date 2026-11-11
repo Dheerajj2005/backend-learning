@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+# Secrets
+.env
+# Editors and OS
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
+.DS_Store
